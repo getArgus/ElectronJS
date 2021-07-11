@@ -3,11 +3,11 @@ An template with electronjs :electron:
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/
 # Go into the repository
-cd electron-quick-start
+cd electronJS
 # Install dependencies
-npm install
+yarn
 # Run the app
-npm start
+yarn start
 ```
