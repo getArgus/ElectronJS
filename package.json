@@ -1,0 +1,14 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "An template with electron",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Thiago",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.6.2",
+  },
+}
